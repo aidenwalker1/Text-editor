@@ -20,4 +20,4 @@ Features:
 - Paragraph formatting (line spacing, etc)
 - Saving and loading (as rtf or txt file)
 
-This project also includes a large library of tests, consisting of unit, integration, and system tests using mockito.
+This project also includes a large library of tests, consisting of unit, integration, and system tests using mockito. It also includes test results from call graphs and flame graphs.
